@@ -44,5 +44,6 @@ _volgt nog, contact leggen is gebeurd_
 
 **Ondertekening:**
 
-![Beschrijving van de afbeelding](afbeelding.jpg)
-
+Omar Omicevec
+Ashraf Basnoe
+Tim Bakker
